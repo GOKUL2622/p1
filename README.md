@@ -66,10 +66,6 @@ flutter run
 * Add real forgot password flow
 * Implement third-party login integrations (e.g. Firebase, OAuth)
 
-## 📸 Screenshots
-
-> *Add your app screenshots here to showcase the UI.*
-
 ## 📄 License
 
 This project is open source and free to use for educational or personal projects.
