@@ -83,12 +83,4 @@ flutter run
 This project is open source and free to use for educational or personal projects.
 
 ---
-
-> Made by gokul lavanya
-
-```
-
----
-
-Let me know if you want to generate a `custom_screen.dart` template as well or add Firebase login in the future.
-```
+## Made by gokul lavanya
