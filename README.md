@@ -16,7 +16,7 @@ A simple and elegant **Flutter Login Page** with wallpaper background using cust
 ## 🧱 Folder Structure
 
 
-
+```
 project\_root/
 │
 ├── lib/
@@ -25,7 +25,7 @@ project\_root/
 │   ├── SignUp\_screen.dart     # Placeholder Sign Up screen
 │   └── custom\_screen.dart     # Custom background wrapper
 
-
+```
 
 ## 📦 Packages Used
 
