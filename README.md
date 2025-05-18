@@ -1,8 +1,4 @@
-Here's a complete `README.md` file for your Flutter project that builds a **Login Page** with wallpaper background and Sign Up navigation:
 
----
-
-```markdown
 # Flutter Login UI Project
 
 A simple and elegant **Flutter Login Page** with wallpaper background using custom screen design, form validation, password protection, and third-party login icons. This project also includes navigation to a Sign-Up screen.
@@ -19,7 +15,7 @@ A simple and elegant **Flutter Login Page** with wallpaper background using cust
 
 ## 🧱 Folder Structure
 
-```
+
 
 project\_root/
 │
@@ -29,7 +25,7 @@ project\_root/
 │   ├── SignUp\_screen.dart     # Placeholder Sign Up screen
 │   └── custom\_screen.dart     # Custom background wrapper
 
-````
+
 
 ## 📦 Packages Used
 
@@ -43,10 +39,6 @@ The `CustomScreen` widget is used to wrap the login screen with a wallpaper back
 
 ### 1. Clone this repository:
 
-```bash
-git clone https://github.com/yourusername/flutter-login-ui.git
-cd flutter-login-ui
-````
 
 ### 2. Run the app:
 
